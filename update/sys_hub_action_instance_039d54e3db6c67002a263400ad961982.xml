@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Create Record">2de05916c31332002841b63b12d3aee1</action_type>
+        <action_type_parent/>
+        <comment>Finance Task Created</comment>
+        <compiled_snapshot display_value="Create Record">2de05916c31332002841b63b12d3aee1</compiled_snapshot>
+        <display_text/>
+        <flow display_value="CVI GL Account Change Request Process">7aa89017dbe827002a263400ad961955</flow>
+        <order>5.7</order>
+        <parent_ui_id>8b95e63a-d97a-4ba0-8e89-a298b482f471</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 14:15:39</sys_created_on>
+        <sys_id>039d54e3db6c67002a263400ad961982</sys_id>
+        <sys_mod_count>58</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+        <sys_update_name>sys_hub_action_instance_039d54e3db6c67002a263400ad961982</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-20 18:48:50</sys_updated_on>
+        <ui_id>58c3b405-24fc-4771-bcc5-724e53fc528a</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=039d54e3db6c67002a263400ad961982"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>039d54e3db6c67002a263400ad961982</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 14:19:55</sys_created_on>
+        <sys_id>ad9e5c27db6c67002a263400ad961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 14:19:55</sys_updated_on>
+        <value>x_snc_cvi_finance_gcoa_tasks</value>
+        <variable display_value="">61e05916c31332002841b63b12d3aee4</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>039d54e3db6c67002a263400ad961982</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 14:19:46</sys_created_on>
+        <sys_id>af8ed827db6c67002a263400ad9619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 14:19:46</sys_updated_on>
+        <value>x_snc_cvi_finance_gcoa_tasks</value>
+        <variable display_value="">0352fc8cc3c632002841b63b12d3ae12</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=039d54e3db6c67002a263400ad961982"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>039d54e3db6c67002a263400ad961982</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 14:19:46</sys_created_on>
+        <sys_id>578ed827db6c67002a263400ad9619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 14:19:46</sys_updated_on>
+        <table>var__m_sys_hub_action_input_02f0b88cc3c632002841b63b12d3aeff</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>039d54e3db6c67002a263400ad961982</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 14:19:55</sys_created_on>
+        <sys_id>699e5c27db6c67002a263400ad961915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 14:19:55</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>039d54e3db6c67002a263400ad961982</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 14:19:55</sys_created_on>
+        <sys_id>2d9e5c27db6c67002a263400ad961915</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 14:36:10</sys_updated_on>
+        <table>var__m_sys_hub_action_input_2de05916c31332002841b63b12d3aee1</table>
+        <value>parent={{Created_1.current}}^short_description=Finance Task Created^priority=3^assigned_to={"display":"Abel Tuter","value":"62826bf03710200044e0bfc8bcbe5df1"}^opened_by={"display":"Claudio Loose","value":"86826bf03710200044e0bfc8bcbe5d79"}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>values</field>
+        <id>039d54e3db6c67002a263400ad961982</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 14:19:46</sys_created_on>
+        <sys_id>2f8ed827db6c67002a263400ad9619ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 14:19:46</sys_updated_on>
+        <table>var__m_sys_hub_action_input_02f0b88cc3c632002841b63b12d3aeff</table>
+        <value>parent={{Created_1.current}}^short_description=Finance Task Created^priority=3^assigned_to={"display":"Abel Tuter","value":"62826bf03710200044e0bfc8bcbe5df1"}</value>
+    </sys_element_mapping>
+</record_update>

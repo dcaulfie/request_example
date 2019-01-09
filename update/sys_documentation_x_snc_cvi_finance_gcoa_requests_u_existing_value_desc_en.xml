@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_existing_value_desc" label="Existing Value Description" language="en" table="x_snc_cvi_finance_gcoa_requests">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_existing_value_desc</element>
+            <help/>
+            <hint/>
+            <label>Existing Value Description</label>
+            <language>en</language>
+            <name>x_snc_cvi_finance_gcoa_requests</name>
+            <plural>Existing Value Descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2018-09-19 16:59:55</sys_created_on>
+            <sys_id>2b99bfcfdb2827002a263400ad9619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Existing Value Description</sys_name>
+            <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_cvi_finance_gcoa_requests_u_existing_value_desc_en</sys_update_name>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2018-09-19 16:59:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

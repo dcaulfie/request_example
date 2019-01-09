@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-01-09 19:10:23">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles>snc_internal</read_roles>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 13:18:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>23705c63db2c67002a263400ad961963</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+        <sys_update_name>sys_portal_page_23705c63db2c67002a263400ad961963</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 13:18:20</sys_updated_on>
+        <title>PA New Tab</title>
+        <user/>
+        <view>pa_new_tab_37</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">23705c63db2c67002a263400ad961963</page>
+                <summary>GCOA Requests State</summary>
+                <sys_created_by>dcaulfield</sys_created_by>
+                <sys_created_on>2018-09-20 13:18:35</sys_created_on>
+                <sys_id>038090a3db2c67002a263400ad961947</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>dcaulfield</sys_updated_by>
+                <sys_updated_on>2018-09-20 13:18:35</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">eb705c63db2c67002a263400ad961963</grid_canvas>
+                        <height>13</height>
+                        <portal_widget display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_widget>
+                        <posx>0</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 13:18:35</sys_created_on>
+                        <sys_id>478090a3db2c67002a263400ad96194a</sys_id>
+                        <sys_mod_count>18</sys_mod_count>
+                        <sys_name>eb705c63db2c67002a263400ad961963</sys_name>
+                        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_478090a3db2c67002a263400ad96194a</sys_update_name>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:35:13</sys_updated_on>
+                        <width>5</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 13:18:35</sys_created_on>
+                        <sys_id>0f8090a3db2c67002a263400ad961947</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 13:18:35</sys_updated_on>
+                        <value>1ace08efdbe867002a263400ad961989</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 13:18:35</sys_created_on>
+                        <sys_id>0f8090a3db2c67002a263400ad961948</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 13:18:35</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:35</sys_created_on>
+                        <sys_id>17ef706fdbec67002a263400ad961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:35</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:35</sys_created_on>
+                        <sys_id>1bef706fdbec67002a263400ad961953</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:35</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 13:18:35</sys_created_on>
+                        <sys_id>478090a3db2c67002a263400ad961949</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 13:18:35</sys_updated_on>
+                        <value>GCOA Requests State</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 13:18:35</sys_created_on>
+                        <sys_id>4b8090a3db2c67002a263400ad961948</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 13:18:35</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 13:18:35</sys_created_on>
+                        <sys_id>838090a3db2c67002a263400ad961949</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 13:18:35</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:35</sys_created_on>
+                        <sys_id>93efb02fdbec67002a263400ad9619d8</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:50</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:35</sys_created_on>
+                        <sys_id>97efb02fdbec67002a263400ad9619d7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:35</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:35</sys_created_on>
+                        <sys_id>97efb02fdbec67002a263400ad9619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:35</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:35</sys_created_on>
+                        <sys_id>9befb02fdbec67002a263400ad9619d7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:35</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:35</sys_created_on>
+                        <sys_id>9befb02fdbec67002a263400ad9619d8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:35</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:35</sys_created_on>
+                        <sys_id>9fefb02fdbec67002a263400ad9619d7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:35</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-09-20 09:18:35">038090a3db2c67002a263400ad961947</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 13:18:35</sys_created_on>
+                        <sys_id>cf8090a3db2c67002a263400ad961948</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 13:18:35</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">23705c63db2c67002a263400ad961963</page>
+                <summary>GCOA Request Assigned Tasks</summary>
+                <sys_created_by>dcaulfield</sys_created_by>
+                <sys_created_on>2018-09-20 16:44:42</sys_created_on>
+                <sys_id>5abf7ce7dbec67002a263400ad961967</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>dcaulfield</sys_updated_by>
+                <sys_updated_on>2018-09-20 16:44:42</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">eb705c63db2c67002a263400ad961963</grid_canvas>
+                        <height>11</height>
+                        <portal_widget display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_widget>
+                        <posx>0</posx>
+                        <posy>13</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:44:42</sys_created_on>
+                        <sys_id>a2bf3c2fdbec67002a263400ad9619e9</sys_id>
+                        <sys_mod_count>22</sys_mod_count>
+                        <sys_name>eb705c63db2c67002a263400ad961963</sys_name>
+                        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_a2bf3c2fdbec67002a263400ad9619e9</sys_update_name>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 20:08:22</sys_updated_on>
+                        <width>12</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:44:42</sys_created_on>
+                        <sys_id>16bf7ce7dbec67002a263400ad961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:44:42</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:44:42</sys_created_on>
+                        <sys_id>52bf7ce7dbec67002a263400ad961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:44:42</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:44:42</sys_created_on>
+                        <sys_id>5ebf7ce7dbec67002a263400ad961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:44:42</sys_updated_on>
+                        <value>GCOA Request Assigned Tasks</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:44:42</sys_created_on>
+                        <sys_id>9abf7ce7dbec67002a263400ad961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:44:42</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:44:42</sys_created_on>
+                        <sys_id>9ebf7ce7dbec67002a263400ad961968</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:44:42</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:39</sys_created_on>
+                        <sys_id>d0ff302fdbec67002a263400ad9619f7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:39</sys_created_on>
+                        <sys_id>d0ff302fdbec67002a263400ad9619f8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:39</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:44:42</sys_created_on>
+                        <sys_id>d2bf7ce7dbec67002a263400ad961968</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:44:42</sys_updated_on>
+                        <value>a16f742fdbec67002a263400ad961912</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:39</sys_created_on>
+                        <sys_id>d4ff302fdbec67002a263400ad9619f7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:39</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:39</sys_created_on>
+                        <sys_id>d4ff302fdbec67002a263400ad9619f8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:39</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:44:42</sys_created_on>
+                        <sys_id>d6bf7ce7dbec67002a263400ad961969</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:44:42</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:39</sys_created_on>
+                        <sys_id>d8ff302fdbec67002a263400ad9619f7</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:53</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:39</sys_created_on>
+                        <sys_id>d8ff302fdbec67002a263400ad9619f8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:39</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:39</sys_created_on>
+                        <sys_id>dcff302fdbec67002a263400ad9619f6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:39</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2018-09-20 12:44:42">5abf7ce7dbec67002a263400ad961967</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 16:45:39</sys_created_on>
+                        <sys_id>dcff302fdbec67002a263400ad9619f7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 16:45:39</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">23705c63db2c67002a263400ad961963</page>
+                <summary>GCOA Current Tasks</summary>
+                <sys_created_by>dcaulfield</sys_created_by>
+                <sys_created_on>2018-09-20 18:29:24</sys_created_on>
+                <sys_id>84b799e7db60a7002a263400ad9619d2</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>dcaulfield</sys_updated_by>
+                <sys_updated_on>2018-09-20 18:29:24</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">eb705c63db2c67002a263400ad961963</grid_canvas>
+                        <height>13</height>
+                        <portal_widget display_value="Created 2018-09-20 14:29:24">84b799e7db60a7002a263400ad9619d2</portal_widget>
+                        <posx>8</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:29:24</sys_created_on>
+                        <sys_id>c4b7592bdb60a7002a263400ad96197b</sys_id>
+                        <sys_mod_count>9</sys_mod_count>
+                        <sys_name>eb705c63db2c67002a263400ad961963</sys_name>
+                        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_c4b7592bdb60a7002a263400ad96197b</sys_update_name>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:35:16</sys_updated_on>
+                        <width>4</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-09-20 14:29:24">84b799e7db60a7002a263400ad9619d2</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:29:24</sys_created_on>
+                        <sys_id>0cb7592bdb60a7002a263400ad961973</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:29:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-09-20 14:29:24">84b799e7db60a7002a263400ad9619d2</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:29:24</sys_created_on>
+                        <sys_id>44b7592bdb60a7002a263400ad961974</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:29:24</sys_updated_on>
+                        <value>GCOA Current Tasks</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-09-20 14:29:24">84b799e7db60a7002a263400ad9619d2</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:29:24</sys_created_on>
+                        <sys_id>48b7592bdb60a7002a263400ad961973</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:29:24</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-09-20 14:29:24">84b799e7db60a7002a263400ad9619d2</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:29:24</sys_created_on>
+                        <sys_id>80b7592bdb60a7002a263400ad961974</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:29:24</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-09-20 14:29:24">84b799e7db60a7002a263400ad9619d2</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:29:24</sys_created_on>
+                        <sys_id>84b7592bdb60a7002a263400ad961973</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:29:24</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-09-20 14:29:24">84b799e7db60a7002a263400ad9619d2</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:29:24</sys_created_on>
+                        <sys_id>c8b7592bdb60a7002a263400ad961972</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:29:24</sys_updated_on>
+                        <value>e667d12bdb60a7002a263400ad96193a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-09-20 14:29:24">84b799e7db60a7002a263400ad9619d2</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:29:24</sys_created_on>
+                        <sys_id>ccb7592bdb60a7002a263400ad961973</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:29:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">23705c63db2c67002a263400ad961963</page>
+                <summary>Requests - Last 30 days</summary>
+                <sys_created_by>dcaulfield</sys_created_by>
+                <sys_created_on>2018-09-20 18:32:18</sys_created_on>
+                <sys_id>a258dd2bdb60a7002a263400ad961936</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>dcaulfield</sys_updated_by>
+                <sys_updated_on>2018-09-20 18:32:18</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">eb705c63db2c67002a263400ad961963</grid_canvas>
+                        <height>13</height>
+                        <portal_widget display_value="Created 2018-09-20 14:32:18">a258dd2bdb60a7002a263400ad961936</portal_widget>
+                        <posx>5</posx>
+                        <posy>0</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:32:19</sys_created_on>
+                        <sys_id>3e58596bdb60a7002a263400ad9619b7</sys_id>
+                        <sys_mod_count>3</sys_mod_count>
+                        <sys_name>eb705c63db2c67002a263400ad961963</sys_name>
+                        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_3e58596bdb60a7002a263400ad9619b7</sys_update_name>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:35:21</sys_updated_on>
+                        <width>3</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-09-20 14:32:18">a258dd2bdb60a7002a263400ad961936</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:32:18</sys_created_on>
+                        <sys_id>2a58dd2bdb60a7002a263400ad961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:32:18</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-09-20 14:32:18">a258dd2bdb60a7002a263400ad961936</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:32:18</sys_created_on>
+                        <sys_id>2e58dd2bdb60a7002a263400ad961936</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:32:18</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2018-09-20 14:32:18">a258dd2bdb60a7002a263400ad961936</portal_section>
+                        <sys_created_by>system</sys_created_by>
+                        <sys_created_on>2019-01-06 20:34:15</sys_created_on>
+                        <sys_id>4efff512db7223001798309f9d9619c9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>system</sys_updated_by>
+                        <sys_updated_on>2019-01-06 20:34:15</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-09-20 14:32:18">a258dd2bdb60a7002a263400ad961936</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:32:18</sys_created_on>
+                        <sys_id>6658dd2bdb60a7002a263400ad961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:32:18</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-09-20 14:32:18">a258dd2bdb60a7002a263400ad961936</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:32:18</sys_created_on>
+                        <sys_id>a258dd2bdb60a7002a263400ad961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:32:18</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-09-20 14:32:18">a258dd2bdb60a7002a263400ad961936</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:32:18</sys_created_on>
+                        <sys_id>e658dd2bdb60a7002a263400ad961936</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:32:18</sys_updated_on>
+                        <value>8138956bdb60a7002a263400ad9619ad</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-09-20 14:32:18">a258dd2bdb60a7002a263400ad961936</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:32:18</sys_created_on>
+                        <sys_id>ea58dd2bdb60a7002a263400ad961937</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:32:18</sys_updated_on>
+                        <value>Requests - Last 30 days</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-09-20 14:32:18">a258dd2bdb60a7002a263400ad961936</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:32:18</sys_created_on>
+                        <sys_id>ee58dd2bdb60a7002a263400ad961936</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:32:18</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA New Tab">23705c63db2c67002a263400ad961963</page>
+                <summary>Cost Centers</summary>
+                <sys_created_by>dcaulfield</sys_created_by>
+                <sys_created_on>2018-09-20 18:25:47</sys_created_on>
+                <sys_id>dfd691a7db60a7002a263400ad9619cf</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>dcaulfield</sys_updated_by>
+                <sys_updated_on>2018-09-20 18:25:48</sys_updated_on>
+                <related_items_node>
+                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                        <grid_canvas display_value="PA New Tab">eb705c63db2c67002a263400ad961963</grid_canvas>
+                        <height>9</height>
+                        <portal_widget display_value="Created 2018-09-20 14:25:47">dfd691a7db60a7002a263400ad9619cf</portal_widget>
+                        <posx>0</posx>
+                        <posy>24</posy>
+                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:25:48</sys_created_on>
+                        <sys_id>57d655e7db60a7002a263400ad96198c</sys_id>
+                        <sys_mod_count>18</sys_mod_count>
+                        <sys_name>eb705c63db2c67002a263400ad961963</sys_name>
+                        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+                        <sys_policy/>
+                        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+                        <sys_update_name>sys_grid_canvas_pane_57d655e7db60a7002a263400ad96198c</sys_update_name>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 20:08:22</sys_updated_on>
+                        <width>12</width>
+                    </sys_grid_canvas_pane>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2018-09-20 14:25:47">dfd691a7db60a7002a263400ad9619cf</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:25:47</sys_created_on>
+                        <sys_id>13d691a7db60a7002a263400ad9619d2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:25:47</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2018-09-20 14:25:47">dfd691a7db60a7002a263400ad9619cf</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:25:47</sys_created_on>
+                        <sys_id>17d691a7db60a7002a263400ad9619d1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:25:47</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2018-09-20 14:25:47">dfd691a7db60a7002a263400ad9619cf</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:25:47</sys_created_on>
+                        <sys_id>5bd691a7db60a7002a263400ad9619d0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:25:47</sys_updated_on>
+                        <value>f976d5a7db60a7002a263400ad961935</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2018-09-20 14:25:47">dfd691a7db60a7002a263400ad9619cf</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:25:47</sys_created_on>
+                        <sys_id>5fd691a7db60a7002a263400ad9619d1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:25:47</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2018-09-20 14:25:47">dfd691a7db60a7002a263400ad9619cf</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:25:47</sys_created_on>
+                        <sys_id>9bd691a7db60a7002a263400ad9619d1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:25:47</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2018-09-20 14:25:47">dfd691a7db60a7002a263400ad9619cf</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:25:47</sys_created_on>
+                        <sys_id>d3d691a7db60a7002a263400ad9619d2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:25:47</sys_updated_on>
+                        <value>Cost Centers</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2018-09-20 14:25:47">dfd691a7db60a7002a263400ad9619cf</portal_section>
+                        <sys_created_by>dcaulfield</sys_created_by>
+                        <sys_created_on>2018-09-20 18:25:47</sys_created_on>
+                        <sys_id>d7d691a7db60a7002a263400ad9619d1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>dcaulfield</sys_updated_by>
+                        <sys_updated_on>2018-09-20 18:25:47</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

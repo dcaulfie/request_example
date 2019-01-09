@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">e744d5e3db60a7002a263400ad961918</block>
+        <comment/>
+        <connected_to/>
+        <display_text/>
+        <flow display_value="CVI GL Account Change Request Process">7aa89017dbe827002a263400ad961955</flow>
+        <inputs/>
+        <logic_definition display_value="If">af4e1945c3e232002841b63b12d3ae3e</logic_definition>
+        <order>5.5</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>8b95e63a-d97a-4ba0-8e89-a298b482f471</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 18:14:38</sys_created_on>
+        <sys_id>a344d5e3db60a7002a263400ad96191a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_a344d5e3db60a7002a263400ad96191a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-20 18:48:50</sys_updated_on>
+        <ui_id>052651ef-1488-4416-9177-b4f933b29870</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=a344d5e3db60a7002a263400ad96191a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>a344d5e3db60a7002a263400ad96191a</document_key>
+        <order>20</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 18:14:38</sys_created_on>
+        <sys_id>b744d5e3db60a7002a263400ad96191d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 18:14:38</sys_updated_on>
+        <value>{{bbd3d371-34d2-4c37-b11d-85b2044eba34.approval_state}}!=approved</value>
+        <variable display_value="">9a5f5105c32632002841b63b12d3ae46</variable>
+    </sys_variable_value>
+</record_update>

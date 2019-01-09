@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <action_type_parent/>
+        <comment>Notification Sent to Local Supervisor</comment>
+        <compiled_snapshot display_value="Send Email">716281160b100300d97d8bf637673ac7</compiled_snapshot>
+        <display_text/>
+        <flow display_value="CVI GL Account Change Request Process">7aa89017dbe827002a263400ad961955</flow>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-19 19:48:20</sys_created_on>
+        <sys_id>6e20e89fdbe827002a263400ad961996</sys_id>
+        <sys_mod_count>156</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+        <sys_update_name>sys_hub_action_instance_6e20e89fdbe827002a263400ad961996</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-09-20 18:48:48</sys_updated_on>
+        <ui_id>2eecac5c-5f29-49e1-adb3-400e0455bffa</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=6e20e89fdbe827002a263400ad961996"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>6e20e89fdbe827002a263400ad961996</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-19 19:48:21</sys_created_on>
+        <sys_id>7a20e89fdbe827002a263400ad96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-19 19:48:21</sys_updated_on>
+        <value>&lt;p&gt;GCOA Change Request Requires Your Review.&lt;/p&gt;</value>
+        <variable display_value="">c71241160b100300d97d8bf637673a55</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>6e20e89fdbe827002a263400ad961996</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-19 19:48:29</sys_created_on>
+        <sys_id>f0306c9fdbe827002a263400ad961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-19 19:48:29</sys_updated_on>
+        <value>&lt;p&gt;GCOA Change Request Requires Your Review.&lt;/p&gt;</value>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=6e20e89fdbe827002a263400ad961996"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>6e20e89fdbe827002a263400ad961996</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-19 19:48:29</sys_created_on>
+        <sys_id>70306c9fdbe827002a263400ad961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-19 19:48:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>6e20e89fdbe827002a263400ad961996</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-19 19:48:21</sys_created_on>
+        <sys_id>f620e89fdbe827002a263400ad96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-19 19:48:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>6e20e89fdbe827002a263400ad961996</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-19 19:48:21</sys_created_on>
+        <sys_id>3620e89fdbe827002a263400ad96199d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-19 19:48:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>Approval Requested for {{Created or Updated_1.current.number}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>6e20e89fdbe827002a263400ad961996</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-19 19:48:29</sys_created_on>
+        <sys_id>bc306c9fdbe827002a263400ad961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-19 19:48:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>Approval Requested for {{Created or Updated_1.current.number}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>6e20e89fdbe827002a263400ad961996</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-19 19:48:21</sys_created_on>
+        <sys_id>7e20e89fdbe827002a263400ad96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-19 19:48:21</sys_updated_on>
+        <table>var__m_sys_hub_action_input_98c181d20b100300d97d8bf637673ab5</table>
+        <value>{{Created or Updated_1.current.opened_by}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>6e20e89fdbe827002a263400ad961996</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-19 19:48:29</sys_created_on>
+        <sys_id>f8306c9fdbe827002a263400ad961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-19 19:48:29</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>{{Created or Updated_1.current.opened_by}}</value>
+    </sys_element_mapping>
+</record_update>

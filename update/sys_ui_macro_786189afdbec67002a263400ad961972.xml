@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description/>
+        <media_type/>
+        <name>CVI Bubbles</name>
+        <scoped_name>x_snc_cvi_finance_CVI Bubbles</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 16:52:20</sys_created_on>
+        <sys_id>786189afdbec67002a263400ad961972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CVI Bubbles</sys_name>
+        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+        <sys_update_name>sys_ui_macro_786189afdbec67002a263400ad961972</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 16:52:20</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+<img src="image003.png" width="577" height="78"/>
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+</record_update>

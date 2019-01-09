@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>gcoa_approval_process</internal_name>
+        <label_cache>[{"name":"bbd3d371-34d2-4c37-b11d-85b2044eba34.approval_state","label":"1➛Approval State","type":"choice","base_type":"choice"},{"name":"Created or Updated_1.current","label":"Trigger➛GCOA Requests Record","reference":"x_snc_cvi_finance_gcoa_requests","reference_display":"GCOA Requests","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.opened_by.manager","label":"Trigger➛GCOA Requests Record➛Opened by➛Manager","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"sys_user","column_name":"manager"},{"name":"{{static.784e2d20dbe82b00fca83ecf9d9619c8}}","label":"Dan Caulfield","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.sys_created_on","label":"Trigger➛GCOA Requests Record➛Created","reference":"","reference_display":"Created","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_snc_cvi_finance_gcoa_requests","column_name":"sys_created_on"},{"name":"71962358-4ca0-4b59-8b88-fce9b2ce86c7.approval_state","label":"2➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"7c11f706-c561-4dfc-8937-513a5d8acf02.approval_state","label":"2.1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"{{static.8e826bf03710200044e0bfc8bcbe5d7d}}","label":"Mack Jurasin","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"54c4c271-c3fd-47bd-ac4d-f6c58c8e720f.approval_state","label":"2.1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"{{static.c6c828c453751300ba3dddeeff7b1219}}","label":"Analysts","reference":"sys_user_group","reference_display":"Group","type":"reference","base_type":"reference"},{"name":"1d6b2d23-795e-466c-ae39-bf450d42dd57.approval_state","label":"2.2.1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"},{"name":"{{static.f5826bf03710200044e0bfc8bcbe5d2c}}","label":"Damion Matkin","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"b6ece67b-7051-4eb3-8bfe-39bd3f4c6662.email","label":"2.1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"},{"name":"Created or Updated_1.current.opened_by","label":"Trigger➛GCOA Requests Record➛Opened by","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_snc_cvi_finance_gcoa_requests","column_name":"opened_by"},{"name":"Created or Updated_1.current.number","label":"Trigger➛GCOA Requests Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_cvi_finance_gcoa_requests","column_name":"number"},{"name":"7beaf0b3-d12b-4c8f-b63c-eace90f8fc35.email","label":"3.1➛email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference"}]</label_cache>
+        <master>true</master>
+        <name>CVI GL Account Change Request Process</name>
+        <outputs/>
+        <parent_flow display_value="CVI GL Account Change Request Process">7aa89017dbe827002a263400ad961955</parent_flow>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-19 19:41:21</sys_created_on>
+        <sys_id>d89ed81fdbe827002a263400ad961993</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>CVI GL Account Change Request Process</sys_name>
+        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_d89ed81fdbe827002a263400ad961993</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 18:42:14</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow_snapshot>
+    <sys_translated_text action="delete_multiple" query="documentkey=d89ed81fdbe827002a263400ad961993"/>
+    <sys_variable_value action="delete_multiple" query="document_key=d89ed81fdbe827002a263400ad961993"/>
+</record_update>

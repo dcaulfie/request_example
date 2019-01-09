@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Send Email">716281160b100300d97d8bf637673ac7</action_type>
+        <action_type_parent display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type_parent>
+        <comment>Approval Not Approved Email to Opened By</comment>
+        <compiled_snapshot display_value="Send Email">716281160b100300d97d8bf637673ac7</compiled_snapshot>
+        <display_text/>
+        <flow display_value="CVI GL Account Change Request Process">d89ed81fdbe827002a263400ad961993</flow>
+        <order>5.3.1</order>
+        <parent_ui_id>050a53a8-d6e4-45e4-842c-c8f8acd89f75</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 16:35:51</sys_created_on>
+        <sys_id>34bdf86bdbec67002a263400ad961999</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+        <sys_update_name>sys_hub_action_instance_34bdf86bdbec67002a263400ad961999</sys_update_name>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 18:42:16</sys_updated_on>
+        <ui_id>df6ba295-dfaa-4e60-8c54-9ffc5527eb63</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=34bdf86bdbec67002a263400ad961999"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>34bdf86bdbec67002a263400ad961999</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 16:35:51</sys_created_on>
+        <sys_id>3cbdf86bdbec67002a263400ad96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 16:35:51</sys_updated_on>
+        <value>&lt;p&gt;&lt;span style="white-space: pre-wrap; background-color: #ffffff;"&gt;GCOA Request Not Approved&lt;/span&gt;&lt;/p&gt;</value>
+        <variable display_value="">4e62c1160b100300d97d8bf637673a10</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>34bdf86bdbec67002a263400ad961999</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 16:35:51</sys_created_on>
+        <sys_id>fcbdf86bdbec67002a263400ad96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 16:35:51</sys_updated_on>
+        <value>GCOA Request Not Approved</value>
+        <variable display_value="">0a62c1160b100300d97d8bf637673a05</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=34bdf86bdbec67002a263400ad961999"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_body</field>
+        <id>34bdf86bdbec67002a263400ad961999</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 16:35:51</sys_created_on>
+        <sys_id>b8bdf86bdbec67002a263400ad96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 16:35:51</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_subject</field>
+        <id>34bdf86bdbec67002a263400ad961999</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 16:35:51</sys_created_on>
+        <sys_id>f4bdf86bdbec67002a263400ad96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 16:35:51</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>ah_to</field>
+        <id>34bdf86bdbec67002a263400ad961999</id>
+        <sys_created_by>dcaulfield</sys_created_by>
+        <sys_created_on>2018-09-20 16:35:51</sys_created_on>
+        <sys_id>34bdf86bdbec67002a263400ad96199e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dcaulfield</sys_updated_by>
+        <sys_updated_on>2018-09-20 16:35:51</sys_updated_on>
+        <table>var__m_sys_hub_action_input_716281160b100300d97d8bf637673ac7</table>
+        <value>{{Created_1.current.opened_by}}</value>
+    </sys_element_mapping>
+</record_update>

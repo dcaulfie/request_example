@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_gcoa_segment" table="x_snc_cvi_finance_gcoa_requests" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_gcoa_segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Company</label>
+            <language>en</language>
+            <name>x_snc_cvi_finance_gcoa_requests</name>
+            <sequence>0</sequence>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2018-09-19 15:36:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e776a3cbdbe427002a263400ad961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2018-09-19 15:36:22</sys_updated_on>
+            <value>company</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_gcoa_segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business Stream</label>
+            <language>en</language>
+            <name>x_snc_cvi_finance_gcoa_requests</name>
+            <sequence>1</sequence>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2018-09-19 15:36:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eb76a3cbdbe427002a263400ad961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2018-09-19 15:36:22</sys_updated_on>
+            <value>business stream</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_gcoa_segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Department</label>
+            <language>en</language>
+            <name>x_snc_cvi_finance_gcoa_requests</name>
+            <sequence>2</sequence>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2018-09-19 15:36:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2f76a3cbdbe427002a263400ad96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2018-09-19 15:36:22</sys_updated_on>
+            <value>department</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_gcoa_segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Account</label>
+            <language>en</language>
+            <name>x_snc_cvi_finance_gcoa_requests</name>
+            <sequence>3</sequence>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2018-09-19 15:36:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f76a3cbdbe427002a263400ad96197d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2018-09-19 15:36:22</sys_updated_on>
+            <value>account</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_gcoa_segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Local Account</label>
+            <language>en</language>
+            <name>x_snc_cvi_finance_gcoa_requests</name>
+            <sequence>4</sequence>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2018-09-19 15:36:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af76a3cbdbe427002a263400ad96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2018-09-19 15:36:22</sys_updated_on>
+            <value>local account</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_gcoa_segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Inter-Company</label>
+            <language>en</language>
+            <name>x_snc_cvi_finance_gcoa_requests</name>
+            <sequence>5</sequence>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2018-09-19 15:36:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef76a3cbdbe427002a263400ad961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2018-09-19 15:36:22</sys_updated_on>
+            <value>inter-company</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_gcoa_segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Location</label>
+            <language>en</language>
+            <name>x_snc_cvi_finance_gcoa_requests</name>
+            <sequence>6</sequence>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2018-09-19 15:36:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2376a3cbdbe427002a263400ad961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2018-09-19 15:36:22</sys_updated_on>
+            <value>location</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_gcoa_segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Product</label>
+            <language>en</language>
+            <name>x_snc_cvi_finance_gcoa_requests</name>
+            <sequence>7</sequence>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2018-09-19 15:36:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6376a3cbdbe427002a263400ad961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2018-09-19 15:36:22</sys_updated_on>
+            <value>product</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_gcoa_segment</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Future</label>
+            <language>en</language>
+            <name>x_snc_cvi_finance_gcoa_requests</name>
+            <sequence>8</sequence>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2018-09-19 15:36:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a376a3cbdbe427002a263400ad961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2018-09-19 15:36:22</sys_updated_on>
+            <value>future</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_gcoa_segment</element>
+            <name>x_snc_cvi_finance_gcoa_requests</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>dcaulfield</sys_created_by>
+            <sys_created_on>2018-09-19 15:36:22</sys_created_on>
+            <sys_id>2376a3cbdbe427002a263400ad961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_gcoa_segment</sys_name>
+            <sys_package display_value="CVI Finance &amp; Accounting" source="x_snc_cvi_finance">9632e787dbe427002a263400ad961957</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CVI Finance &amp; Accounting">9632e787dbe427002a263400ad961957</sys_scope>
+            <sys_update_name>sys_choice_x_snc_cvi_finance_gcoa_requests_u_gcoa_segment</sys_update_name>
+            <sys_updated_by>dcaulfield</sys_updated_by>
+            <sys_updated_on>2018-09-19 15:36:22</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
